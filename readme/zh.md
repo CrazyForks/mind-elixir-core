@@ -2,7 +2,7 @@
   <a href="https://docs.mind-elixir.com" target="_blank" rel="noopener noreferrer">
     <img width="150" src="https://raw.githubusercontent.com/ssshooter/mind-elixir-core/master/images/logo2.png" alt="mindelixir logo2">
   </a>
-  <h1 align="center">Mind Elixir</h1>
+  <h1 align="center">Mind Elixir Core</h1>
 </p>
 
 <p align="center">
